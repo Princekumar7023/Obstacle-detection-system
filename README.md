@@ -50,7 +50,12 @@ Wearable adaptations for personal navigation support.
 This system demonstrates the power of combining hardware and software for innovative, real-world solutions in automation and navigation.
 
 
+Ploting
 ![image](https://github.com/user-attachments/assets/72c46ed2-79c0-4167-868d-91dc506ed54b)
+
+Distance measurement
+![Screenshot 2024-11-28 110230](https://github.com/user-attachments/assets/d1c111ba-99c5-4d64-9e5d-2691d566995a)
+
 
 
 
